@@ -10,7 +10,7 @@
 ![O11Y](https://img.shields.io/badge/O11Y-Grafana%20%2F%20Prometheus%20%2F%20AlertManager%20%2F%20Loki%20%2F%20Promtail%20%2F%20FluentD%20%2F%20ELK%20Stack-lightgrey?style=plastic&logo=appveyor)
 ![Coding](https://img.shields.io/badge/Coding-Python%20%2F%20Javascript%20%2F%20Bash%20%2F%20PowerShell-success?style=plastic&logo=appveyor)
 ![ETL](https://img.shields.io/badge/ETL-Airflow-yellowgreen?style=plastic&logo=appveyor)
-![Certifications](https://img.shields.io/badge/Certifications-CKA%20%2F%20SAA--C03(pending)-9cf?style=plastic&logo=appveyor)
+![Certifications](https://img.shields.io/badge/Certifications-Certified%20Kubernetes%20Administrator%2F%20AWS%20Certified%20Solutions%20Architect-9cf?style=plastic&logo=appveyor)
 ![Interests](https://img.shields.io/badge/Interests-IoT%20%2F%20LORAWAN%20%2F%20GCP%20%2F%20ACP-orange?style=plastic&logo=appveyor)
 
 <!--
