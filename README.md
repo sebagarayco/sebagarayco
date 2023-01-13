@@ -3,7 +3,7 @@
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-orange?style=plastic&logo=amazonaws)
 ![Containers](https://img.shields.io/badge/Containers-Docker%2FKubernetes%2FEKS%2FECR%2FECS%2FFargate-blue?style=plastic&logo=linuxcontainers)
 ![DB](https://img.shields.io/badge/Databases-SQL%2FNoSQL-yellow?style=plastic&logo=microsoftsqlserver)
-![InfraAsCode](https://img.shields.io/badge/IaC-Terraform%2FAnsible%2FCloudFormation-red?style=plastic&logo=terraform)
+![InfraAsCode](https://img.shields.io/badge/IaC-Terraform%2FTerragrunt%2FAnsible%2FCloudFormation-red?style=plastic&logo=terraform)
 ![CI/CD](https://img.shields.io/badge/CI/CD-Jenkins%2FGitLab%2FGitHub-yellowgreen?style=plastic&logo=octopusdeploy)
 ![GitOps](https://img.shields.io/badge/GitOps-ArgoCD%2FFlux%2FKustomize%2FHelm-cyan?style=plastic&logo=git)
 ![Frameworks](https://img.shields.io/badge/Frameworks-React%2FAmplify%2FDjango%2FFlask%2FVue.js-blueviolet?style=plastic&logo=robotframework)
